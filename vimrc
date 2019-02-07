@@ -6,7 +6,7 @@ set nocompatible
 set encoding=utf-8
 
 " Packages
-set packpath+=~/.vim/pack
+set runtimepath+=~/.vim/pack
 
 " Remap Esc to ;; to exit normal mode
 imap ;; <Esc>
@@ -35,6 +35,8 @@ nnoremap <space> za
 " Visuals
 set number
 highlight BadWhitespace ctermbg=9
+colorscheme torte
+let g:airline_theme='luna'
 
 " Python config
 let python_highlight_all=1

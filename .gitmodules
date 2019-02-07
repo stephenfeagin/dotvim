@@ -1,3 +1,12 @@
 [submodule "pack/start/vim-airline"]
 	path = pack/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/dist/start/vim-fugitive"]
+	path = pack/dist/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/dist/start/vim-airline-themes"]
+	path = pack/dist/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "pack/dist/opt/vim-monokai-pro"]
+	path = pack/dist/opt/vim-monokai-pro
+	url = https://github.com/Erichain/vim-monokai-pro.git
