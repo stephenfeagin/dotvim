@@ -10,3 +10,6 @@
 [submodule "pack/dist/opt/vim-monokai-pro"]
 	path = pack/dist/opt/vim-monokai-pro
 	url = https://github.com/Erichain/vim-monokai-pro.git
+[submodule "pack/dist/start/jedi-vim"]
+	path = pack/dist/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
